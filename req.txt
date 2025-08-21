@@ -1,0 +1,5 @@
+numpy<2.0        # NumPyは2系の互換性問題があるので1系安定版推奨
+opencv-python    # OpenCVの公式パッケージ
+ultralytics      # YOLOモデルのライブラリ
+torch>=1.13.1    # PyTorch（ultralyticsは1.13.1以上推奨）
+pytz             # タイムゾーン処理
